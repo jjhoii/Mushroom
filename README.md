@@ -13,8 +13,7 @@
 </div>
 <img src="images/page_main.png" align=center>
 
-<h3><a href="document/DEMO.md">DEMO 바로가기</a></h3>
-<h3><a href="https://youtu.be/tgc0P9LF5UU">UCC 바로가기</a></h3>
+<h3><a href="document/DEMO.md">DEMO</a></h3>
 
 <div>
   	Musician 링크에서 다른 사용자들과 함께 다양한 멜로디를 추가하고, 이펙트를 주어 완성도 높은 음악을 만들 수 있습니다.<br>
@@ -67,13 +66,7 @@
 
 
 ### 와이어프레임
-
-![wireframe_main](images/wireframe_main.jpg)
-![wireframe_room](images/wireframe_room.jpg)
-![wireframe_room_detail](images/wireframe_room_detail.jpg)
-
-
-
+[와이어프레임](./document/wireframe.md)
 
 
 ## 음악 공유 수단
